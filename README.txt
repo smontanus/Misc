@@ -1,0 +1,1 @@
+Various code samples, methods, and algorithms that I've written.
