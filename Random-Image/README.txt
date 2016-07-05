@@ -1,0 +1,1 @@
+randomimage.js - Javascript function that generates a random image for a webpage from a source directory of multiple images."
